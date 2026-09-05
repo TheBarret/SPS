@@ -3,7 +3,7 @@
 A Substrate Perception System (SPS) is a field-based multi-agent perception architecture  
 that replaces geometric detection  (raycasts, radius checks, spatial partitioning) with passive scalar field interactions.   
 Agents perceive their environment by reading local values and gradients from a set of dissipating,  
-diffusing energy fields—achieving O(1) perception per agent regardless of total agent count.  
+diffusing energy fields, achieving O(1) perception per agent regardless of total agent count.  
 
 **Detection Mechanism:**  
 Detection is not an active query but a passive byproduct of existing within a shared computational substrate.  
@@ -265,7 +265,7 @@ This vector encodes the full spatial structure around the agent, allowing policy
 
 ### 6.1 The Nonlinear Entanglement Problem
 
-A mathematically pure solution—subtracting each agent's own private "self field" from the total—is **not feasible** because:
+A mathematically pure solution, subtracting each agent's own private "self field" from the total, is **not feasible** because:
 
 1. Diffusion and decay are linear operations and commute with addition.
 2. However, the activation function `f_k(x)` is nonlinear and applied every timestep to the *combined* field.
