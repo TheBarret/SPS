@@ -18,7 +18,7 @@ The system is therefore best suited for scenarios with dense agent populations a
 <img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/79e552fd-30db-4f8b-81ce-c63d34e0c20e" />  
 
 
-*early testing: cluster formation and emergent properties from the dipole substrate*
+*early boid-rule testing (coherence, alignment and avoidance): cluster formation and emergent properties from the dipole substrate*
 
 ---
 
