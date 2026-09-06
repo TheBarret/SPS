@@ -14,9 +14,11 @@ and N is the number of agents. This represents a favorable trade-off compared to
 but the field update term dominates at high resolutions.  
 The system is therefore best suited for scenarios with dense agent populations and moderate spatial precision requirements.  
 
-<img width="778" height="792" alt="image" src="https://github.com/user-attachments/assets/c91c7a9a-ac01-4bbf-afb0-1fc865c1f7ae" />
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/c91c7a9a-ac01-4bbf-afb0-1fc865c1f7ae" />
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/79e552fd-30db-4f8b-81ce-c63d34e0c20e" />  
 
-*early testing*
+
+*early testing: cluster formation and emergent properties from the dipole substrate*
 
 ---
 
