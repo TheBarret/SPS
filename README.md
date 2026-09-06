@@ -14,9 +14,9 @@ and N is the number of agents. This represents a favorable trade-off compared to
 but the field update term dominates at high resolutions.  
 The system is therefore best suited for scenarios with dense agent populations and moderate spatial precision requirements.  
 
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/d33a14c3-a7e2-4d2d-a709-3dd3e983538c" />   
+<img width="778" height="792" alt="image" src="https://github.com/user-attachments/assets/c91c7a9a-ac01-4bbf-afb0-1fc865c1f7ae" />
 
-*Illustrative*
+*early testing*
 
 ---
 
