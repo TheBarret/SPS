@@ -18,7 +18,20 @@ The system is therefore best suited for scenarios with dense agent populations a
 <img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/79e552fd-30db-4f8b-81ce-c63d34e0c20e" />  
 
 
-*early boid-rule testing (coherence, alignment and avoidance): cluster formation and emergent properties from the dipole substrate*
+*early boid-rule testing (coherence, alignment and avoidance): cluster formation and emergent properties from the dipole substrate*  
+
+**Native (Single Scalar E)**:  
+* Proximity & Spatial Density
+* Gradient Attraction / Trail
+* Repulsion & Obstacles
+* Territory & Reaction-Diff.
+
+**Geometric (Anisotropic):**  
+* Trail Locking & Narrow V-Wake
+
+**To do:**  
+Solve velocity coupling or higher-order.  
+
 
 ---
 
